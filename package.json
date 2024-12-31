@@ -1,0 +1,9 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Password Generator CLI Application",
+  "main": "passwordGenerator.js",
+  "scripts": {
+    "start": "node passwordGenerator.js"
+  }
+} 
